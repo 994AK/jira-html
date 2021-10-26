@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67cd451f-0d2b-48c4-bbcd-f5f7295a236a" name="更改" comment="添加登录与注册系统" />
+    <list default="true" id="67cd451f-0d2b-48c4-bbcd-f5f7295a236a" name="更改" comment="添加登录与注册系统">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth-provider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth-provider.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/authenticated-app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/authenticated-app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/auth-context.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/auth-context.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/project-list/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/project-list/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unauthenticated-app/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/unauthenticated-app/login.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +20,12 @@
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zzYlweCbqVLoMWX5ltDLSqYxS3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,14 +37,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="ts.external.directory.path" value="C:\Users\yangguanghua\Desktop\打开他学习\jire\jira\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="mine" />
+    </force-push-targets>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,6 +58,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\yangguanghua\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="67cd451f-0d2b-48c4-bbcd-f5f7295a236a" name="更改" comment="" />
@@ -48,8 +70,23 @@
       <updated>1635152540527</updated>
       <workItem from="1635152544797" duration="10538000" />
       <workItem from="1635234966433" duration="41000" />
-      <workItem from="1635235025580" duration="38000" />
+      <workItem from="1635235025580" duration="8839000" />
     </task>
+    <task id="LOCAL-00001" summary="添加登录与注册系统">
+      <created>1635235102099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635235102099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加登录与注册系统">
+      <created>1635235206691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635235206692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

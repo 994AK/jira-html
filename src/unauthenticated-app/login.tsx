@@ -4,9 +4,6 @@ import { useAuth } from "../context/auth-context";
 export const LoginScreen = () => {
   const { login, user } = useAuth();
 
-  console.log(useAuth())
-
-
 // HTMLFormElement extends Element
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
