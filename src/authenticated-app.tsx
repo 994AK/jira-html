@@ -8,5 +8,5 @@ export const AuthenticatedApp = () => {
   return <div>
     <button onClick={logout}>登出</button>
     <ProjectListScreen   />
-  </div>;
+  </div>
 };
